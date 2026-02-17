@@ -1,0 +1,27 @@
+STUDENT REPORT
+Total Students: 6
+
+Class Average Per Subject:
+Math: 85.50
+Physics: 75.67
+Chemistry: 82.17
+Biology: 76.67
+
+Overall Class Average: 80.00
+
+Top 3 Students:
+Chandler Bing (S003) - Avg: 91.25
+Monica Gellar (S001) - Avg: 88.75
+Pheobe Buffey (S005) - Avg: 88.25
+
+Students scoring above 90 in any subject:
+Monica Gellar (S001)
+Chandler Bing (S003)
+Pheobe Buffey (S005)
+Joey Tribbiyani (S006)
+
+Subject-wise Highest and Lowest Scores:
+Math -> Highest: 100, Lowest: 70
+Physics -> Highest: 91, Lowest: 35
+Chemistry -> Highest: 95, Lowest: 72
+Biology -> Highest: 92, Lowest: 34
