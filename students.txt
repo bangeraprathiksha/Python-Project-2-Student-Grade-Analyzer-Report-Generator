@@ -1,0 +1,6 @@
+S001,Monica Gellar,85,90,88,92
+S002,Rachel Green V,78,82,75,80
+S003,Chandler Bing,92,88,95,90
+S004,Ross Gellar,70,68,72,75
+S005,Pheobe Buffey,88,91,85,89
+S006,Joey Tribbiyani,100,35,78,34
